@@ -7,7 +7,7 @@ Instructions to train the model from scratch:
 2) For Resnet Model
 
 Instructions to test the trained model:
-1)For CNN1 Architecture model
+1) For CNN1 Architecture model
   -Under the Testing folder open up the Testing file
   -Run all the cells and the model will be loaded and can be tested against a test datatset or single images
 2) For Resnet Model
