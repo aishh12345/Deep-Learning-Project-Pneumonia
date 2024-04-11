@@ -9,7 +9,8 @@ Instructions to train the model from scratch:
 
 Instructions to test the trained model:
 1) For CNN1 Architecture model
-  -Under the Testing folder open up the Testing file
+  -Under the Testing folder open up the Testing file and import it to Kaggle or open up the Google Collab Link
+   -Google Collab link has the Testing file and imported Test Dataset
   -Run all the cells and the model will be loaded and can be tested against a test datatset or single images
-2) For Resnet Model
+3) For Resnet Model
    
