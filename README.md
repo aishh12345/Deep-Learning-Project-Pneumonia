@@ -11,6 +11,7 @@ Instructions to test the trained model:
 1) For CNN1 Architecture model
   -Under the Testing folder open up the Testing file and import it to Kaggle or open up the Google Collab Link
    -Google Collab link has the Testing file and imported Test Dataset
+   -Google Collab Link for Testing: https://drive.google.com/drive/folders/1wHvg2v8h2PAix6bwnLQfUcffqxu8vL_3?usp=drive_link
   -Run all the cells and the model will be loaded and can be tested against a test datatset or single images
 3) For Resnet Model
    
