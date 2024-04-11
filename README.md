@@ -1,7 +1,7 @@
 # Deep-Learning-Project-Pneumonia
 Instructions to train the model from scratch:
 1) For CNN1 Architecture model
-   -Open up the CNN1 ipynb notebook in google collaboration and import the necessary libraies as stated in the first cell
+   -Open up the CNN1 ipynb notebook in kaggle Notebook and import the necessary libraies as stated in the first cell
    -If running locally, run pip install
    -Run the entire file and the trained model will be saved in the stated directory
 2) For Resnet Model
